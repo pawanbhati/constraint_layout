@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="button_send">Send</string>
+    <string name="service_text">Service Demo</string>
+    <string name="content_provider_demo">Content Provider Demo</string>
+    <string name="bound_service_text">Bound Service Example</string>
+    <string name="broadcast_receiver_text">Broadcast Receiver Demo</string>
+</resources>
